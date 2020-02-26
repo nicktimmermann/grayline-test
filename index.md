@@ -12,5 +12,5 @@ var feefo = new Feefo.PlacesIntegration({
 debug: true,
 destination: document.getElementById('FPI_Destination'),
 merchantIdentifier: 'gray-line',
-}); 
+graylinefeefo.html}); 
 </body>
